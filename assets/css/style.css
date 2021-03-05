@@ -2,14 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&display=swap');
 
 body {
-
     line-height: 24px;
     font-size: 14px;
     font-style: normal;
     font-weight: normal;
     visibility: visible;
     font-family: 'Nunito', sans-serif;
-    color: #222; }
+    color: #1a202c;}
 
 h1, h2, h3, h4, h5, h6 {
     color: #222;
